@@ -24,7 +24,7 @@ public class Produto {
 
         mercado.setpreço(4553.2);
         mercado.setnome("Pedro");
-// usei o outro código de rascunho e não vi que meu nome estava... me vendi com 10% de desconto
+// usei o outro código de rascunho e não vi que meu nome estava como produto... me vendi com 10% de desconto
         System.out.println("Preço: " + mercado.getpreço());
         System.out.println("Nome do produto: " + mercado.getnome());
         System.out.println("Desconto de 10% no produto");
